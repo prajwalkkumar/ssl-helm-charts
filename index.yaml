@@ -2,8 +2,8 @@ apiVersion: v1
 entries:
   servicex:
   - apiVersion: v1
-    appVersion: v1.10.40
-    created: "2022-10-14T21:19:10.675225191Z"
+    appVersion: v1.10.41
+    created: "2022-10-15T17:38:17.504058456Z"
     dependencies:
     - name: rabbitmq
       repository: https://charts.bitnami.com/bitnami/
@@ -17,7 +17,7 @@ entries:
       repository: https://charts.bitnami.com/bitnami/
       version: 11.6.*
     description: Install ServiceX deployment - HEP Columnar Data Delivery Service
-    digest: 2a519c1928024b7d8b1e4558a6553b97cfc343d9117d4d000effe0f59b230eb5
+    digest: b223fc2c7744832723bc71ab253df72707544d5f1bb5fe9ef4b2a6348640003f
     maintainers:
     - name: BenGalewsky
       url: https://github.com/BenGalewsky
@@ -27,6 +27,6 @@ entries:
       url: https://github.com/ivukotic
     name: servicex
     urls:
-    - https://ssl-hep.github.io/ssl-helm-charts/servicex-v1.10.40.tgz
-    version: v1.10.40
-generated: "2022-10-14T21:19:10.662214544Z"
+    - https://ssl-hep.github.io/ssl-helm-charts/servicex-v1.10.41.tgz
+    version: v1.10.41
+generated: "2022-10-15T17:38:17.485973219Z"
